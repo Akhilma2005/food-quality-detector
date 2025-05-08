@@ -128,10 +128,12 @@ This project was developed as part of the Naan Mudhalvan – GUVI OpenCV & Deep 
 
 **3**. [Abin R S](https://www.github.com/abin-manu)
 
+**4**. [Babith](https://www.github.com/babith-del)
+
 Feel free to reach out for any inquiries or collaboration opportunities!
 
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
 
